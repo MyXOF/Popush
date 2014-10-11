@@ -1,0 +1,6 @@
+
+[2014/10/8 19:29:05]
+server start
+
+[2014/10/8 19:29:05]
+uncaughtException: Error: listen EADDRINUSE
